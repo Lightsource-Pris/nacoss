@@ -1,0 +1,14 @@
+right click to select object
+left click to move 
+shif add to add new objects
+plus and minus to zoom
+alt click to rotate
+T to hide left menu
+1- front view
+3-side view
+7- top view
+shift D to duplicate
+control R activate loop cut
+F to fill up
+s to scale in
+b to select in vertex select
