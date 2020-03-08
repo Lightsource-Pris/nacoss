@@ -99,10 +99,10 @@ if(!$result){
 <button id="butt2" class="dleftbutton" onclick="plusDivs(-1)">&#10094;</button>
 <button id="butt2" class="drightbutton" onclick="plusDivs(+1)">&#10095;</button>
 </div> -->
-<img class="ad" src="images/ad1.jpg">
-<img class="ad" src="images/ad2.jpg">
-<img class="ad" src="images/ad3.jpg">
-<img class="ad" src="images/ad4.jpg">
+<img class="ad" src="images/adv1.jpg">
+<img class="ad" src="images/adv2.jpg">
+<img class="ad" src="images/adv3.jpg">
+<img class="ad" src="images/adv4.jpg">
 </div>
 <div class="due" style="margin-bottom: 300px;">
 <a href="payment.html"><div class="due1"><img src="icons/dues.png"><h4>Pay Departmental Due</h4></div></a>
@@ -148,7 +148,7 @@ if(!$result){
       <div class="footer-right">
         <p class="footer-about">
           <span>About this site</span>
-          This site offers payment features, departmental updates, past question downloads as 
+          This site offers payment features, departmental updates, advertisement and past question downloads as 
           sponsored by NACOSS FUNAAB and designed by <a target="_blank" style="color: white" href="http://www.funaababode.com.ng">PRISSOLUTIONS</a></p>
         <div class="footer-icons">
           <a href="#"><i class="fa fa-facebook"></i></a>
