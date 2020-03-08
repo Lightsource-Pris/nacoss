@@ -2,7 +2,7 @@
 <html>
 <head><title>Contact Us</title>
 <link rel="stylesheet" href="../font-awesome/font-awesomee/css/font-awesome.min.css">
-<link rel="stylesheet" type="text/css" href="../css/styso.css?v=1">
+<link rel="stylesheet" type="text/css" href="../css/realcss.css?v=1">
 <style type="text/css">
 </style>
 </head>
@@ -20,8 +20,8 @@
     <i class="fa fa-bars" ></i>
   </a>
 </div>
-<div class="form" style="height: 710px;">
-  <div class="nac"><h1 style="margin-left: 6%; padding-top: 10px;"><b>Contact Us||Make Inquiry</b></h1></div>
+<div class="form" style="height: 765px;">
+  <div class="nac"><h1 style="margin-left: 6%; padding-top: 10px;"><b>Contact Us</b></h1></div>
   <br><br><br>
 <form method="POST"  class="formi">
   <div class="input1">
@@ -75,10 +75,10 @@ if((isset($_POST['name']) && !empty($_POST['name']))
 <button id="butt2" class="dleftbutton" onclick="plusDivs(-1)">&#10094;</button>
 <button id="butt2" class="drightbutton" onclick="plusDivs(+1)">&#10095;</button>
 </div> -->
-<img class="ad" src="../images/ad1.jpg">
-<img class="ad" src="../images/ad2.jpg">
-<img class="ad" src="../images/ad3.jpg">
-<img class="ad" src="../images/ad4.jpg">
+<img class="ad" src="/nacoss/images/adv1.jpg">
+<img class="ad" src="/nacoss/images/adv2.jpg">
+<img class="ad" src="/nacoss/images/adv3.jpg">
+<img class="ad" src="/nacoss/images/adv4.jpg">
 </div>
 <div class="due" style="margin-bottom: 300px;">
 <a href="../payment.html"><div class="due1"><img src="../icons/dues.png"><h4>Pay Departmental Due</h4></div></a>
@@ -124,7 +124,7 @@ if((isset($_POST['name']) && !empty($_POST['name']))
       <div class="footer-right">
         <p class="footer-about">
           <span>About this site</span>
-          This site offers payment features, departmental updates, past question downloads as 
+          This site offers payment features, departmental updates, advertisement and past question downloads as 
           sponsored by NACOSS FUNAAB and designed by <a target="_blank" style="color: white" href="http://www.funaababode.com.ng">PRISSOLUTIONS</a></p>
         <div class="footer-icons">
           <a href="https://m.facebook.com"><i class="fa fa-facebook"></i></a>
